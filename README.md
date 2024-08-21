@@ -8,7 +8,7 @@
 
 - **All of my projects are available at [https://nikkhilportfolio797.netlify.app](https://nikkhilportfolio797.netlify.app)**
 
-- **Ask me about - avascript , React**
+- **Ask me about - Javascript , React**
 
 - **How to reach me -  Kumarnikhil8112@gmail.com**
 
