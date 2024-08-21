@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height="350">
 
 
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h1 align="center">Hey , I'm Nikhil</h1>
 <h3 align="center">I'm a web developer and data analyst with experience in React and Node.js. I graduated from SRM University and enjoy creating scalable web applications and analyzing data.</h3>
 
 - **I’m currently learning Alteryx , Power BI**
