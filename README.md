@@ -53,10 +53,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 5px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="path_to_typescript_logo" alt="typescript" width="40" height="40" style="margin-right: 5px;"/>
-  </a>
 </p>
 
 
