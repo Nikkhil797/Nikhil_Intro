@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="1000">
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">I'm a web developer and data analyst with experience in React and Node.js. I graduated from SRM University and enjoy creating scalable web applications and analyzing data.</h3>
