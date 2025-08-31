@@ -4,7 +4,7 @@
 <h1 align="center">Hey , I'm Nikhil</h1>
 <h3 align="center">I'm a web developer and data analyst with experience in React and Node.js. I graduated from SRM University and enjoy creating scalable web applications and analyzing data.</h3>
 
-- **I’m currently learning Alteryx , Power BI**
+- **I’m currently working on Alteryx , Power BI and excel**
 
 - **All of my projects are available at [https://nikkhilportfolio797.netlify.app](https://nikkhilportfolio797.netlify.app)**
 
